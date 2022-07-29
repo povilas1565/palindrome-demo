@@ -1,4 +1,4 @@
-Palindrome-demo
+# Palindrome-demo
 In this exercise, you will create a component that allows users to input a word and acknowledge to them whether or not the word is a palindrome (spelled the same forward and backwards).
 
 # Getting Started with Create React App
